@@ -1,0 +1,19 @@
+================================================================================
+ Trail Guide Agent - Evaluation Results
+================================================================================
+
+  Eval ID      : eval_a3f3e82ee13343bb83f3cfe131256cf0
+  Run ID       : evalrun_483799022fa943c888e0aaec0a83f145
+  Total items  : 47
+  Errored items: 0
+  Scored items : 47
+
+Average Scores (1-5 scale, threshold: 3)
+  Intent Resolution: 4.94 (n=47)
+  Relevance        : 4.94 (n=47)
+  Groundedness     : 4.79 (n=47)
+
+Pass Rates (score >= 3)
+  Intent Resolution: 100.0%
+  Relevance        : 100.0%
+  Groundedness     : 95.7%
